@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="WSL (55ad43ca-c0e2-4716-8bce-23c5505c202c)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="myubuntu (d9d15640-6c2b-4d34-933c-782b6a5bb7ed)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.Q5dMwi7sdd" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-myubuntu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-myubuntu" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
