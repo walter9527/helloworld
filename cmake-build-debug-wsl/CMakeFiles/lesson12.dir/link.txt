@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lesson12.dir/file/lesson12.c.o CMakeFiles/lesson12.dir/common/common.c.o  -o lesson12 

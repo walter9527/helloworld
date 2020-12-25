@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/encrypt.h
+
+/mnt/c/Users/walter/CLionProjects/lesson/encrypt/main.c
+encrypt.h
+/mnt/c/Users/walter/CLionProjects/lesson/encrypt/encrypt.h
+

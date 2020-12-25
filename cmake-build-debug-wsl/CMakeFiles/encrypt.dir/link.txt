@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/encrypt.dir/encrypt/encrypt.c.o CMakeFiles/encrypt.dir/common/common.c.o  -o encrypt 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/helloworld.dir/encrypt/main.c.o CMakeFiles/helloworld.dir/encrypt/encrypt.c.o CMakeFiles/helloworld.dir/common/common.c.o  -o helloworld 
